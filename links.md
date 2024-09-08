@@ -1,5 +1,5 @@
 ---
-permalink: https://github.com/AiH000/os242/blob/74b68a825027401d1045e8c398943c4cf174ea31/TXT/mylog.txt/
+permalink: LINKS/
 ---
 
 ## [HOME](../)
