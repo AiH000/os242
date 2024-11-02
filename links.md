@@ -11,4 +11,5 @@ permalink: LINKS/
 * [Command Line for Linux](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) --- This site contains command line for beginner
 * [Operating System Concepts Slide](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) -- This site contains slides for operating system concepts.
 * [Shell Scripting](https://www.shellscript.sh/) --- For shell scripting
+* [Assignments](https://demos.vlsm.org/#idx000) --- For OS assignments
 <br>
