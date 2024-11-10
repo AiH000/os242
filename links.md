@@ -12,4 +12,5 @@ permalink: LINKS/
 * [Operating System Concepts Slide](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) -- This site contains slides for operating system concepts.
 * [Shell Scripting](https://www.shellscript.sh/) --- For shell scripting
 * [Assignments](https://demos.vlsm.org/#idx000) --- For OS assignments
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) --- Book for Linux From Scratch version 12.2
 <br>
