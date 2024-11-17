@@ -13,4 +13,5 @@ permalink: LINKS/
 * [Shell Scripting](https://www.shellscript.sh/) --- For shell scripting
 * [Assignments](https://demos.vlsm.org/#idx000) --- For OS assignments
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) --- Book for Linux From Scratch version 12.2
+* [LFS - Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- Video guide for Linux From Scratch version 12.2 by Kernotex
 <br>
